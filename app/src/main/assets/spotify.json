@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "nombrePlayList": "Top 10 España",
+      "seguidores": "2.222.123",
+      "fotoAlbum": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2LRBZFOF4VHWXJPHI4GQUQ4URA.jpg",
+      "canciones": [
+        {
+          "tituloCancion": "Hola",
+          "fotoCancion": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2LRBZFOF4VHWXJPHI4GQUQ4URA.jpg",
+          "nombreArtista": "Shakira ft Bizarrap"
+        },
+        {
+          "tituloCancion": "La canción del cacahuete",
+          "fotoCancion": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2LRBZFOF4VHWXJPHI4GQUQ4URA.jpg",
+          "nombreArtista": "Cantajuegos"
+        }
+      ]
+    }
+
+    ,
+    {
+      "nombrePlayList": "Mejores Éxitos",
+      "seguidores": "3.122.113",
+      "fotoAlbum": "https://los40es00.epimg.net/los40/imagenes/2021/12/14/musica/1639499589_900221_1639500764_gigante_normal.jpg",
+      "canciones": [
+        {
+          "tituloCancion": "Shape of you",
+          "fotoCancion": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2LRBZFOF4VHWXJPHI4GQUQ4URA.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "La canción del cacahuete",
+          "fotoCancion": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2LRBZFOF4VHWXJPHI4GQUQ4URA.jpg",
+          "nombreArtista": "Cantajuegos"
+        }
+      ]
+    },
+    {
+      "nombrePlayList": "Divide",
+      "seguidores": "1.222.123",
+      "fotoAlbum": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png?20170112204508",
+      "canciones": [
+        {
+          "tituloCancion": "Shape of you",
+          "fotoCancion": "https://i1.sndcdn.com/artworks-1TMX0Q1tqhWx-0-t500x500.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Castle On The Hill",
+          "fotoCancion": "https://i1.sndcdn.com/artworks-000203913798-mdpnav-t500x500.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Galway Girl",
+          "fotoCancion": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png?20170112204508",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Galway Girl",
+          "fotoCancion": "https://upload.wikimedia.org/wikipedia/en/9/95/EdSheeranGG.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Perfect",
+          "fotoCancion": "https://upload.wikimedia.org/wikipedia/en/8/80/Ed_Sheeran_Perfect_Single_cover.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Supermarket Flowers",
+          "fotoCancion": "https://media.hitparade.ch/cover/big/ed_sheeran-supermarket_flowers_s.jpg",
+          "nombreArtista": "Ed Sheeran"
+        }
+      ]
+    },
+    {
+      "nombrePlayList": "Ed Sheeran",
+      "seguidores": "5.123.228",
+      "fotoAlbum": "https://i.scdn.co/image/ab67706f000000030373b03502fba84b91dac8e8",
+      "canciones": [
+        {
+          "tituloCancion": "Shape of you",
+          "fotoCancion": "https://i1.sndcdn.com/artworks-1TMX0Q1tqhWx-0-t500x500.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Castle On The Hill",
+          "fotoCancion": "https://i1.sndcdn.com/artworks-000203913798-mdpnav-t500x500.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Galway Girl",
+          "fotoCancion": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png?20170112204508",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Galway Girl",
+          "fotoCancion": "https://upload.wikimedia.org/wikipedia/en/9/95/EdSheeranGG.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Perfect",
+          "fotoCancion": "https://upload.wikimedia.org/wikipedia/en/8/80/Ed_Sheeran_Perfect_Single_cover.jpg",
+          "nombreArtista": "Ed Sheeran"
+        },
+        {
+          "tituloCancion": "Supermarket Flowers",
+          "fotoCancion": "https://media.hitparade.ch/cover/big/ed_sheeran-supermarket_flowers_s.jpg",
+          "nombreArtista": "Ed Sheeran"
+        }
+      ]
+    }
+  ]
+}

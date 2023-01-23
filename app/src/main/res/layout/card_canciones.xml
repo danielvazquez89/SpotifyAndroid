@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    app:cardCornerRadius="11dp"
+    android:layout_margin="2dp"
+    app:cardBackgroundColor="@color/grey"
+    app:cardElevation="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:id="@+id/imagenCancion"
+            android:layout_width="80dp"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="220dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+        <TextView
+            android:id="@+id/tituloCancion"
+            android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:text="Nombre canción"
+            android:textSize="18dp"
+            />
+
+        <TextView
+            android:id="@+id/subtituloCancion"
+            android:layout_width="wrap_content"
+            android:textColor="@color/whiteInactive"
+            android:layout_height="wrap_content"
+            android:text="Artistas" />
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/corazon"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:src="@drawable/ic_baseline_favorite_border_24"
+            />
+        <ImageView
+            android:id="@+id/bloquear"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_outline_do_disturb_on_24"
+            />
+        <ImageView
+            android:id="@+id/masInformacion"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_baseline_more_vert_24"
+            />
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
